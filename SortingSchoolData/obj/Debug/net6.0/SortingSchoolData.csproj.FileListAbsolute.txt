@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\bin\Debug\net6.0\SortingSchoolData.deps.json
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\bin\Debug\net6.0\SortingSchoolData.dll
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\bin\Debug\net6.0\SortingSchoolData.pdb
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.AssemblyInfo.cs
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.dll
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\refint\SortingSchoolData.dll
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\SortingSchoolData.pdb
+C:\Users\HP\Desktop\Phase4PP2\NunitandMoq\SortingSchoolData\obj\Debug\net6.0\ref\SortingSchoolData.dll
